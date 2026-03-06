@@ -1,0 +1,11 @@
+{
+  "sites": [
+    {
+      "id": "fabrica-magica",
+      "repo": "riengenheiro/fabrica-magica",
+      "domain": "fabricamagica.com",
+      "product_briefing": "products/codigos.md",
+      "main_cta_selector": "#btn-comprar"
+    }
+  ]
+}
