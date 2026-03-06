@@ -2,11 +2,12 @@
   "sites": [
     {
       "id": "codigos-bncc-cb7k2m",
-      "repo": "riengenheiro/fabrica-magica",
+      "repo": "riengenheiro/projetos",
       "domain": "codigos.vivasuamissao.top",
       "product_briefing": "products/codigos.md",
       "main_cta_selector": "#btn-comprar",
-      "zone_id": "aca7e7ab0f323ee467146c50ed09e773"
+      "zone_id": "aca7e7ab0f323ee467146c50ed09e773",
+      "code_paths": ["sites-astros/codigos-bncc/src/pages/index.astro"]
     }
   ]
 }
