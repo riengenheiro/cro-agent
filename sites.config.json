@@ -1,9 +1,9 @@
 {
   "sites": [
     {
-      "id": "fabrica-magica",
+      "id": "codigos-bncc-cb7k2m",
       "repo": "riengenheiro/fabrica-magica",
-      "domain": "fabricamagica.com",
+      "domain": "codigos.vivasuamissao.top",
       "product_briefing": "products/codigos.md",
       "main_cta_selector": "#btn-comprar"
     }

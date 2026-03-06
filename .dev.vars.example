@@ -1,0 +1,4 @@
+# Copie para .dev.vars e preencha (nunca commite .dev.vars).
+# Em produção: npx wrangler secret put CONFIG_URL
+
+CONFIG_URL=https://raw.githubusercontent.com/SEU_USUARIO/cro-agent/main/sites.config.json
