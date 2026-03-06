@@ -5,7 +5,8 @@
       "repo": "riengenheiro/fabrica-magica",
       "domain": "codigos.vivasuamissao.top",
       "product_briefing": "products/codigos.md",
-      "main_cta_selector": "#btn-comprar"
+      "main_cta_selector": "#btn-comprar",
+      "zone_id": "aca7e7ab0f323ee467146c50ed09e773"
     }
   ]
 }
